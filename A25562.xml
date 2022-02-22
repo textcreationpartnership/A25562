@@ -1,0 +1,239 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to Mr. Read's case wherein is a full discovery of his dissimulation with God and man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25562</idno>
+            <idno type="STC">Wing A3370</idno>
+            <idno type="STC">ESTC R16399</idno>
+            <idno type="EEBO-CITATION">11930130</idno>
+            <idno type="OCLC">ocm 11930130</idno>
+            <idno type="VID">51090</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51090)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to Mr. Read's case wherein is a full discovery of his dissimulation with God and man.</title>
+                  <author>Read, Joseph, d. 1713. Mr. Read's case.</author>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Colophon: London : Printed and are to be sold by R. Janeway.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51090:1"/>
+            <pb facs="tcp:51090:1"/>
+            <p>AN ANSWER TO Mr. Read's Caſe. WHEREIN IS A Full Diſcovery of his Diſſimulation with GOD and MAN.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Daniel 5.27.</hi>
+                  </bibl> 
+                  <hi>Tekel,</hi> Thou art weighed in the Ballance, and art found wanting.</p>
+               <p>
+                  <bibl>
+                     <hi>Matt. 16.23.</hi>
+                  </bibl> Get thee behind me Satan, thou art an offence to me, for thou ſavoureſt not the things that be of God, but thoſe that be of Men.</p>
+               <p>
+                  <bibl>
+                     <hi>Gal. 2.11.</hi>
+                  </bibl> But when <hi>Peter</hi> was come to <hi>Antioch,</hi> I withſtood him to the Face, becauſe he was to be blamed.</p>
+            </q>
+            <q>
+               <l>
+                  <hi>Turpe referre pedem, nec paſſu ſtare tenaci.</hi> 
+                  <bibl>Ovid.</bibl>
+               </l>
+               <l>'Tis horrid ſhame for Men to change their Steps,</l>
+               <l>When God bids ſtand, then to give backward leaps.</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author. 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51090:2"/>
+            <pb n="3" facs="tcp:51090:2" rendition="simple:additions"/>
+            <head>AN ANSWER TO Mr. <hi>READ</hi>'s CASE, &amp;c.</head>
+            <opener>
+               <salute>Mr. <hi>Read,</hi>
+               </salute>
+            </opener>
+            <p>TO my great Charge I had a ſight of your Pamphlet En<g ref="char:EOLhyphen"/>tituled, Mr. <hi>Read</hi>'s <hi>Caſe;</hi> I aſſure you it coſt me Six Pence, and when I brought it home, I was fain to imitate the Author in turning Diſſembler, a little to praiſe it, that I might not be laughed at for throwing my Money away ſo idly. The truth is, among all the Books I ever ſaw, I never view'd a parcel of words ſo much in vain be<g ref="char:EOLhyphen"/>fore. It made me conclude you penn'd it on purpoſe to cheat the buyers of their Money, as you read the Common Prayer to gull the Informers of their Office; truly Sir, it was not kind<g ref="char:EOLhyphen"/>ly done of you theſe hard times, now Money is ſo ſcarce, to lay Traps and Snares for your poor Brethrens Purſes, to promiſe ſuch Mountains in the Title Page, and bring forth nothing but Duſt in all the other Leaves. Well! I have loſt Six Pence by it, but if I miſtake not your loſs is far greater. I may get Six Pence again, but I queſtion whether ever you will reco<g ref="char:EOLhyphen"/>ver your Honour or Reputation more. Certainly a Man
+<pb n="4" facs="tcp:51090:3"/>
+that had any value for his Credit, any deſire of eſteem with underſtanding Men, would never have ſent forth an Apology upon ſuch an emergent occaſion as I confeſs your Apoſtaſie is, ſo raw, ſo thin, that it made me ſhiver to behold it, not on<g ref="char:EOLhyphen"/>ly without trimming to make it fine, but neceſſary clothing to keep it warm. Would any man (that was well in his Wits) firſt raſhly do an unheard of, ſcandalous, ridiculous action, and then confidently undertake to juſtifie it, meerly by multiply<g ref="char:EOLhyphen"/>ing words without knowledge? I cannot Sir, let your Ar<g ref="char:EOLhyphen"/>rogance paſs without a juſt Reproof, and a dealing with you anſwerable to the offence you have given. Once indeed I lov'd you as a Brother, but now I loath you as an Impoſtor. Once indeed I honoured you as a ſuffering Champion for Chriſt, but now my Stomach is turned againſt you as a ſhame<g ref="char:EOLhyphen"/>ful Betrayer of the Cauſe of Chriſt, and a cowardly Runaway from the work of Chriſt.</p>
+            <p>And becauſe you are ſuch a Phariſee in your eyes, and chal<g ref="char:EOLhyphen"/>lenge your Brethren to convince you of ſin, in what you have done; I here undertake to make it appear, that you are guil<g ref="char:EOLhyphen"/>ty of ſix or ſeven abominable ſins in the very penning of your Pamphlet; the Lord give you an heart to repent them before Repentance is hid from your Eyes.</p>
+            <p>
+               <hi>Firſt,</hi> I cannot but think you deeply guilty of the ſin of Ig<g ref="char:EOLhyphen"/>norance. That is, in plain <hi>Engliſh,</hi> you are not qualified with knowledg and underſtanding ſufficient for that great employ<g ref="char:EOLhyphen"/>ment you have taken upon you. I don't queſtion but this will grate much upon your ſpirit; but ſo it is, and you muſt excuſe my plainneſs in telling you of it. And let any wiſe Man pe<g ref="char:EOLhyphen"/>ruſe this Learned Piece that comes from your Study in <hi>Blooms<g ref="char:EOLhyphen"/>bury,</hi> and if he be not of my mind I ſhall willingly be account<g ref="char:EOLhyphen"/>ed a Slanderer— Now if we may judge of your Under<g ref="char:EOLhyphen"/>ſtanding in the great and weighty things of the Goſpel, by your knowledge of leſs ſubordinate matters, you cannot be
+<pb n="5" facs="tcp:51090:3"/>
+eſteemed by your beſt friends, a man gifted for the work of the Miniſtry. Is it poſſible in the days of light that you (one of the pretended Maſters of <hi>Iſrael</hi>) ſhould be ſo woful ig<g ref="char:EOLhyphen"/>norant of the Controverſy between the Church of <hi>England</hi> and the <hi>Diſſenters,</hi> as every eye that looks upon your conceited Pamphlet may perceive you are? Can there be a more pro<g ref="char:EOLhyphen"/>digious piece of ignorance than to ſuffer from the practice of ſome well meaning perſons to the <hi>Non-conformiſts</hi> Inte<g ref="char:EOLhyphen"/>reſt, becauſe they go to Pariſh Churches, that therefore there is no ſuch Principle of Diſſenting amongſt any on this ac<g ref="char:EOLhyphen"/>count. 'Tis a ſign how well read you are, what have you been a <hi>Nonconformiſt,</hi> and in Priſon ſo long? been a Sufferer ſo much for a Cauſe you are not yet acquainted with? I will only ſay this, you that knew ſo little of the Cauſe of your Sufferings when you were in Priſon, 'tis much to be ſuſpect<g ref="char:EOLhyphen"/>ed, you know as little of the Myſterys which you teach when you are in the Pulpit, and how well verſed you are in the leaves appears by this wiſe conceit, <hi>That your reading a little of the Common-Prayer, would ſecure you and your people from ſuffer<g ref="char:EOLhyphen"/>ing for time to come,</hi> it was a very learned Conjecture; ſuch as I believe never entred into a mans brain before; but do you really Sir, know no better, if you do not, why would you proclaim your ignorance ſo openly to the World? could you not have been content to keep on in your way under the im<g ref="char:EOLhyphen"/>putation of a Knave, but you muſt come upon the Stage with your Reaſon too, and get the addition of a fool into the bar<g ref="char:EOLhyphen"/>gain? I could tell you, (and it may be you may e're long know it to your ſorrow) that you are now a greater tranſgreſ<g ref="char:EOLhyphen"/>ſor of the Law, and more obnoxious to penalty than you were before. Pray by what authority do you preſume to read the Common Prayer? how do you meddle with the Liturgy of the Church of <hi>England</hi> without power from the Church ſo to do? you are a Thief and a Robber; you enter not in at the
+<pb n="6" facs="tcp:51090:4"/>
+door, but climb up another way, in medling with the Prieſtly Office without Holy Orders. If the Governors of the Church ſhould come upon you, and Sue you with a <hi>Quo Warranto,</hi> as I am ſure they may, and at laſt clap you into Priſon for this offence, I know not what men may do, but I am very con<g ref="char:EOLhyphen"/>fident the Angels will hardly viſit you ſo often as they did before. It would be tedious to diſcover the many follies of your Book, I will only take a view of the Title Page, and ſo paſs from this head.</p>
+            <p>Mr. <hi>READ</hi>'s <hi>CASE, &amp;c.</hi> And a pitiful Caſe it is, as ever infatuated man was in. <hi>P<g ref="char:V">Ʋ</g>BLISHED.</hi> In truth a wiſe man would have concealed for ſhame, and not have made himſelf a laughing ſtock to the World. <hi>FOR PREVENTION OF SCANDAL TO HIS BRETHREN AND PEOPLE.</hi> I would fain hope you are not quite ſo ſhallow, as to imagine you can remove any ſcandal by ſuch an inſignificant heap of words. <hi>FOR ENCO<g ref="char:V">Ʋ</g>RAGEMEMT TO S<g ref="char:V">Ʋ</g>FFERING PROTE<g ref="char:EOLhyphen"/>STANT DISSENTERS.</hi> Good Sir, ſend us word as ſoon as you can how you do, I profeſs I am afraid you are diſturbed in your Head. What encouragement can ſuffering Diſſenters receive from a giddy whimſical man, that is unſtable in his ways, that knows not what to be at, nor which ſide to take, that is rea<g ref="char:EOLhyphen"/>dy to conform, inform, deform, any form to keep himſelf out of Priſon, and ſecure his maintenance among his People. But the Title goes on, <hi>FOR A REB<g ref="char:V">Ʋ</g>KE TO THEIR LAW<g ref="char:EOLhyphen"/>LESS ADVERSARIES.</hi> Bleſs me! the Man's a Conjuring, he's a mumbling out a few Prayers to drive away the Devil of the lawleſs Adverſary. Well, I never heard the Common Prayer was read as a Spell before; but it may be Sir, you would have <hi>Diſſenters</hi> retort upon them thus— <hi>You lawleſs Adverſaries, the famous Mr.</hi> Read <hi>reads the Common-Prayer, therefore look to it that you do not diſturb us at our Meetings, nor be any more troubleſome to us at your peril.</hi> But now Sir, ſup<g ref="char:EOLhyphen"/>poſe
+<pb n="7" facs="tcp:51090:4"/>
+they ſhould go on to diſturb us for all this, what ſhall we do then? will you be ſo kind to us as to read the Maſs next, and try what that will do, it may be that will rebuke them more effectually.</p>
+            <p>Well, but this Title, and this Book, ſuch as it is (and he is a wiſer man than I that knows what it is) is humbly tendered to our Governours in hopes of their forbearance towards us, in truth, Sir, if our Governours had no greater motives to forbearance than your Book or Practice, all the World would acquit them of rigidity, ſhould they proceed in a more ſharp way againſt us than they have yet done. And were all <hi>Diſſenters</hi> ſuch as you (as bleſſed be God they are not, but abhor you and your ſcandalous bending) they might juſtly become the objects of the Worlds ſcorn, and the ſubjects of the Magiſtrates juſtice. What an argument have you uſed, what ſhadow of reaſon have you produced to prevent ſcandal for your unworthy temporizing, and dabling in thoſe waters that refreſh and make glad the City of our God. Nay he that out of exceſs of Charity, grants common ſence accompanies eve<g ref="char:EOLhyphen"/>ry Paragraph of your Book, affords you a kindneſs you could never recover of him by Law. Much more I could ſay, but let this ſuffice to evince you deſtitute of that knowledge, ne<g ref="char:EOLhyphen"/>ceſſary to the Publick Capacity you are in.</p>
+            <p>
+               <hi>Secondly,</hi> You are eminently guilty of that horrid ſin of Pride, and from your own Pen you may be juſtly condemn<g ref="char:EOLhyphen"/>ed of it; I confeſs Ignorance and Arrogance are very uſually companions, eſpecially amomg men of our Coat. I ſeldom know an ignorant Preacher but he was confident of his Abili<g ref="char:EOLhyphen"/>lities, nay gloried in them, as though he exceelled all other men. Now whether you be not ſuch an one we ſhall preſent<g ref="char:EOLhyphen"/>ly ſee. How imperious do you appear in your Title Page, calling your caſe, <hi>A leading Caſe,</hi> as if you were a man of ſuch note and influence that others muſt neceſſarily, follow, becauſe
+<pb n="8" facs="tcp:51090:5"/>
+you have led the way to Apoſtacy; and ſo high is your con<g ref="char:EOLhyphen"/>ceit of what you have done, that you think you ſufficiently an<g ref="char:EOLhyphen"/>ſwer Dr. <hi>STILLINGFLEET.</hi> By the way, Sir, I perceive you have read ſomething of the fore-mentioned Dr. a little to guide you in your untrodden path, leſt you ſhould break your ſhins in runing away too faſt form your Non-conforming Brethren; But for conſulting any others to eſtabliſh you in the cauſe you were once a well-wiſher to (though never verſed in) we ſuppoſe you too Politick, as knowing the dan<g ref="char:EOLhyphen"/>gers attending thoſe that will be faithful in this Generation; how very likely ſuch are to be great ſufferers, and among other kinds of ſufferings, this eſpecially, to loſe their Maintenance. Oh dreadful! 'twas time indeed to make your peace with Dr. <hi>Stillingfleet,</hi> and to anſwer his call as far as you could; But pray Sir, did this Dr. call upon you to read as much of the Common-Prayer as you confeſs to be lawful. I can't well think it, becauſe I'm ſure he knows it is not lawful for you to read it. Neither does Authority deſire it of you, they enjoyn you to hear it, but not to read it, they have wiſer men enough of their own to do it, who are perſwaded in their Conſciences of the lawfulneſs of it, and againſt ſuch we ſay nothing. They want no Turn-Coat Wheedlers to aſſiſt them in carrying on their Worſhip; and therefore all you are like to get from Men as well as God for what you have done, is— <hi>Who hath re<g ref="char:EOLhyphen"/>quired this at your hands?</hi> But was it not a piece of a mortified Pride in you (as well as groſs ignorance) to imagine that your caſe (though every way forlorn and deſpicable, yet becauſe it is your caſe) is a neceſſary leading Caſe, and others muſt follow you in it, which God forbid. Your Pride alſo is diſ<g ref="char:EOLhyphen"/>covered in Page the 5th. where ſpeaking of rectifying that which you call a miſtake, and to teach them better who are ſo miſtaken, whom with great inſolence you call <hi>THE IGNO<g ref="char:EOLhyphen"/>RANT AMONG <g ref="char:V">Ʋ</g>S.</hi> But wherein lies their ignorance?
+<pb n="9" facs="tcp:51090:5"/>
+why in this, that they count it offenſive for a Miniſter (that is otherwiſe perſuaded) to read the Common Prayer; 'Tis very well, Sir, I confeſs, there are ſome ſuch People in this Age that are of that mind, and I am apt to think their knowledge is almoſt as great as yours. I heartily wiſh one of the leaſt of them had a fair opportunity of tugging with you upon this point, and that your maintenance lay at ſtake to make out what you have ſo arrogantly expreſt. I believe Dr. <hi>Stillingfleet</hi> may go ſeek his Chaplain, for you will ſcarcely endure the ſight of the Common Prayer more. However, ſuppoſe they were all ignorant of this perſwaſion, 'twas highly preſumptuous in you to undertake to rectifie the miſtake, and to teach them better, when you are not able to give a rational account of your own actions. Were there no wiſer men for, or againſt the Common Prayer, than you diſcover your ſelf to be, the Pope might pity us for fools, I hardly think he would envy us for Hereticks. We have another Diſcovery of your Am<g ref="char:EOLhyphen"/>bition in Page 10, 11. Where after telling a formal Story of Meeting with your People in troubleſome times, you pro<g ref="char:EOLhyphen"/>pounded an expedient (an admirable good one) to eaſe and relieve them in their troubles; And that was, <hi>Reading ſome of the Common Prayer to them.</hi> But the Remedy it ſeems was very offenſive, inſomuch that ſome of them (well perceiving what a trinketting Fox they had got for their Paſtor) quitted themſelves from being any longer under your charge, 'twas honeſtly and honourably done of them: And I wiſh all the reſt had as wiſely conſulted their own good, and taken the ſame courſe. Others of them you ſay, were ſo prejudiced a<g ref="char:EOLhyphen"/>gainſt Forms, that you were forced at that time to lay aſide your intended prevarication; ſo that we may thank their con<g ref="char:EOLhyphen"/>ſtancy more than your honeſty, that you had not been at dabl<g ref="char:EOLhyphen"/>ing work ſome years ſince. But the faithfulneſs of thoſe few put you in ſuch a rage, that you proudly call'd them <hi>Weak:</hi>
+               <pb n="10" facs="tcp:51090:6"/>
+How great their Parts may be, I can't tell, (having never known them) but I am more than confident, that they are ſtronger in grace than your ſelf, and will be honoured in the day of Chriſt, when ſuch dawbers in untemper'd Mortar as you ſhall hang down their heads and be aſhamed. Another touch of your pride we have in Page 13, where you ſeem to intimate that People will wonder that Mr. <hi>Read</hi> ſhould read the Com<g ref="char:EOLhyphen"/>mon Prayer; that a man ſo learned, (for that's the ſence) ſo able, ſo renowned, as Mr. <hi>Read;</hi> that ſuch a Star of the firſt Magnitude, ſuch a Pillar of the <hi>Non-conformiſts</hi> Cauſe as Mr. <hi>Read</hi> ſhould ſhake or be moved from his foundation, Truly Sir, had you kept in your Apology, thoſe that knew you not, but only heard of your ſufferings, and the eſteem you had a<g ref="char:EOLhyphen"/>mong the godly upon that account, might perhaps be a little induced to wonder at your ſudden charge. But I dare ſay, all wondring will now ceaſe, they that read your Pamphlet will no more wonder at whatever Mr. <hi>Read</hi> does; no, though he ſhould wear a Surplice, though he ſhould bow at the Al<g ref="char:EOLhyphen"/>tar, though he ſhould at laſt retreat to the Maſs, for a refuge againſt the ſtorm of Perſecution. That you had a faint heart we all knew by what you have done, but we did not imagine you had ſuch a weak brain till we ſaw what you have writ. However you thought People had an high eſteem of your A<g ref="char:EOLhyphen"/>bilities, by your ſuppoſing they would ſhake their heads and ſay, <hi>I wonder at Mr.</hi> Read, <hi>which does not become a man that ought to be exemplary in lowneſs of mind.</hi> Your arrogant bragging of your being alone, and leading the way, as though you had done ſuch an act, ſufficiently ſhews your vainglorious humour. I will not inſiſt upon your horrid pride in compar<g ref="char:EOLhyphen"/>ing your ſelf to <hi>Jehoſaphat,</hi> and abuſing, yea profaning the Holy Scriptures (what worſe ſin can there be!) to make them ſerve your turn, though no colourable parallel can be made between your caſe and that; upon which thoſe precious words
+<pb n="11" facs="tcp:51090:6"/>
+were ſpoken. What could the veryeſt Atheiſt this day in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> do more than wreſt the Word of God to gratifie his baſe Luſt? but as if all this had not been ſufficient to proclaim your ſin of Pride or <hi>Sodom,</hi> and to publiſh the haughtineſs of your Spirit, as the iniquity of <hi>Gomorrah,</hi> you conclude more like a Ranter than a Preacher, more like a <hi>Roman</hi> than a Chriſti<g ref="char:EOLhyphen"/>an, and more like an hypocrite than either, taking up the words of <hi>Joab</hi> in an inſulting manner, as though there were never a Champion for the Cauſe of God in <hi>England</hi> but you. What Sir, are you arriv'd to the impudence of the unjuſt Judge, that neither feared God nor regarded Man. You ſeem not to fear God in that you dare trample upon his Word, and in a deſperate manner wilfully break the Third Command<g ref="char:EOLhyphen"/>ment, as your taking up good <hi>Jehoſaphats</hi> words do abun<g ref="char:EOLhyphen"/>dantly teſtifie. You regard not the eſteem of Man in that you rank your ſelf with <hi>Joab,</hi> when there is no likeneſs in your circumſtances. Pray let's ſee how <hi>Joabs</hi> condition and yours will bear a proportion. <hi>Joab</hi> was General of an Army, you a Paſtor of a Congregation; <hi>Joab</hi> was a ſtout Souldier, you a baſe Coward; <hi>Joab</hi> had a lawful call to fight againſt his ene<g ref="char:EOLhyphen"/>mies, you without any call ſet your ſelf in oppoſition to all your friends; in a word, <hi>Joab</hi> ſtood in need of aid from Hea<g ref="char:EOLhyphen"/>ven to reſiſt the Adverſaries of the God of <hi>Iſrael,</hi> you have ſuccour from Hell to help you to ſuppreſs the Cauſe of Chriſt and his People, in which work you are now engaging your ſelf: But ſtay, now I think on't, there is one thing wherein you and <hi>Joab</hi> are much alike; You know <hi>Joab</hi> ſerv'd a King that was an eminent Type of the Lord Jeſus Chriſt, and truly he himſelf was a Type of you; for he left his Maſter in a day of Temptation, and 'tis no breach of charity to ſay you have for<g ref="char:EOLhyphen"/>ſaken yours—</p>
+            <p>
+               <hi>Thirdly,</hi> 'Tis eaſily demonſtrable you are guilty of the ſin of falſhood in what you have writ, the lying Spirit that en<g ref="char:EOLhyphen"/>tered
+<pb n="12" facs="tcp:51090:7"/>
+into <hi>Ahab</hi>'s Prophets, I doubt has taken poſſeſſion of you. Your ſaying <hi>Page</hi> 11. you conſulted your Brethren in the Miniſtry, and they owned the Lawfulneſs of uſing the Liturgy in the ordinary Lords days Service, finds ſmall belief amongſt ſober people.</p>
+            <p n="1">1ſt. Becauſe we have only your bare word for it, and that aſſure you goes but for a little now.</p>
+            <p n="2">2dly. Becauſe moſt of them diſown it, and proteſt againſt it, even Mr. <hi>Baxter,</hi> whom you ſo much quote, profeſſes he knew nothing of it, and has declared his diſlike of it.</p>
+            <p>Laſtly, Becauſe we have an higher eſteem of the Miniſters, than to think them ſo weak to adviſe you to ſuch an altoge<g ref="char:EOLhyphen"/>ther unjuſtifiable, and juſtly offenſive thing to the preſent Go<g ref="char:EOLhyphen"/>vernment. And therefore it concerns you to make this im<g ref="char:EOLhyphen"/>probable ſtory a little more evident, or elſe not to be angry if we enrol you in the number of thoſe that ſpeak lies in hy<g ref="char:EOLhyphen"/>pocriſie. For my own part, I ſolemnly profeſs I believe you not, nor does any other that I have ſpoke with, or heard of.</p>
+            <p>Again, In the ſame Page you ſay that you have conſulted Lawyers, and they tell you, that the reading of it will prove the lawfulneſs of your Meeting, and ſecure you from any far<g ref="char:EOLhyphen"/>ther trouble. I challenge you for truths ſake to name thoſe Lawyers. Will you impoſe upon us at this rate, to have us believe Lawyers are turn'd Mad-men, to tell you a thing ſo alien to ſence and reaſon. Produce (if you can) ever a learn<g ref="char:EOLhyphen"/>ed Lawyer in <hi>England</hi> that will ſtand by this Poſition, that you (without Power, or taking Orders from the Biſhop) reading Common Prayer makes thereby your Meeting a Law<g ref="char:EOLhyphen"/>ful Aſſembly, and ſecures you from the Laſh of the Law. Whereas on the contrary, you have made your ſelf a Criminal by your preſumptuous boldneſs and contempt. Nay, you con<g ref="char:EOLhyphen"/>feſs your ſelf, <hi>Page</hi> 36. that you are in the Biſhops Court al<g ref="char:EOLhyphen"/>ready for it, likely to be Excommunicated and Impriſoned.
+<pb n="13" facs="tcp:51090:7"/>
+               <hi>Amen, Amen,</hi> ſay I. Let all ſuch Mungril <hi>Diſſenters</hi> be ſo met with, Good Lord —</p>
+            <p>
+               <hi>Fourthly,</hi> Your Hypocriſie and Diſſimulation does groſly appear from your own mouth. You confeſs <hi>Page</hi> 11. you were not very fond of the Common Prayer, that is, you did not throughly like it, nor approve of it in your Conſcience, and yet rather than ſuffer the ſpoiling of your Goods, you'll bring it into the Worſhip of God, and read it to your Peo<g ref="char:EOLhyphen"/>ple. Sir, have you not read of <hi>Baalam</hi> the Son of <hi>Bozar,</hi> that <hi>loved the wages of unrighteouſneſs;</hi> who was ſo tempted with the offers of reward which <hi>Baalac</hi> tender'd him, that he would fain have acted contrary to his Conſcience, but was againſt his will prevented, (as you were at that time) and as therefore juſtly called the <hi>CARNAL PROPHET.</hi> And do you not tremble to think how like to him you are? What, does the love of the World, or the fear of ſuffering, make you do that in the Worſhip of God, which otherwiſe you would not do? Indeed, Sir, I much fear your heart is not right with God, and that Principle upon which you ſay you act is very ridiculouſly urg'd, <hi>Viz. Obedience to Magiſtrates in things lawful is a duty.</hi> Pray who denies it, what do you infer? therefore you read the Common Prayer in obedience to them. Surely a man in <hi>Bedlam</hi> would argue more rationally; what obedi<g ref="char:EOLhyphen"/>ence is your reading to the Magiſtrates? Did any Juſtice of the Peace, or any Judge upon the Bench, command you to read the Common Prayer? they have nothing to do with it, neither will they meddle in it. Oh Sir, remember the great God will not be mocked, he knows the hypocriſie of our hearts, and will reckon with us for it. Nay farther, you have not only a baſe covetous end in what you do, but an envious, malicious end. You read the Common Prayer meerly that you may have an advantage to go to Law with your Neighbours. I ſhould never have thought ſo if you had not your ſelf inge<g ref="char:EOLhyphen"/>niouſly
+<pb n="14" facs="tcp:51090:8"/>
+acknowledged it. You tell us <hi>Page</hi> 12. As ſoon as you had begun to read, and had made proof of it to the Grand Jury at <hi>Weſtminſter,</hi> you were for Lawing on't as faſt as you could, and to that end brought an Indictment againſt Juſtice <hi>Parry, Richard Goory,</hi> and ſome others. Excellent good Devotion I profeſs, for a Miniſter of the Goſpel to worſhip God in a way he is not very fond of on purpoſe to take re<g ref="char:EOLhyphen"/>venge on them he has a ſpite againſt. Truly I can't but apply the words of our Saviour to you, <hi>Mat.</hi> 23.14. <hi>Wo to you Scribes and Phariſees, Hypocrites, for ye devour Widows houſes, and for a pre<g ref="char:EOLhyphen"/>tence make long Prayers.</hi> So wo to thou diſſembler, that art bent to go to Law, and ſeek revenge, and for a pretence, or that thou mightſt get an advantage, thou readeſt the Common Prayer. Therefore thou doſt contract the greater guilt, and ſhalt receive (without repentance) the greater condemnati<g ref="char:EOLhyphen"/>on. Miſtake me not, I do dot meddle with the Cauſe between Juſtice <hi>Parry</hi> and you: 'Tis poſſible he may have overſhot the Mark, and done that which he cannot anſwer, and you might have warrantably commenced a Suit againſt him; but this I ſay, to read the Common Prayer to make your Plea a<g ref="char:EOLhyphen"/>gainſt him the more plauſible, is ſuch a piece of diſſimulation, and dallying with the Worſhip of God, as few (beſide your ſelf) would have the forehead to own.</p>
+            <p>
+               <hi>Fifthly,</hi> You are guilty of the ſin of ſcandalizing many pre<g ref="char:EOLhyphen"/>cious Servants of Chriſt, and dealing very dirtily and diſin<g ref="char:EOLhyphen"/>geniouſly with them. You'ld fain father the Brat of Apoſta<g ref="char:EOLhyphen"/>cy upon ſuch men as you know have a greater name in the World than your ſelf, that you might be thought to do no<g ref="char:EOLhyphen"/>thing but what was their Principle, and ſo be ſecure from the Cenſures of the People. And here you ſtick not to affront the living, and abuſe the dead, raking the aſhes of the grave, and diſturbing thoſe that are ſilent in the duſt, making them your Patrons to protect you in your turning aſide from the
+<pb n="15" facs="tcp:51090:8"/>
+purity of the Goſpel; when all the World knows that herein you wrong them moſt abominably. If you can pick out any thing from the Writings of thoſe famous Men you mention, that ſhew them not abſolutely in ſome caſes againſt ſome Form of Prayer, (which is the moſt you can do) pray what ſervice will this do you in your caſe? Suppoſe they were not againſt a Form of Prayer, does this argue they were for the Com<g ref="char:EOLhyphen"/>mon Prayer, or becauſe ſome (though but a very few) of them were not rigid againſt hearing the Common Prayer in Churches, does it follow they were for Miniſters reading it (contrary to their Principles and Profeſſion) in their Con<g ref="char:EOLhyphen"/>gregation only to avoid ſuffering? Ask Mr. <hi>Baxter</hi> and Dr. <hi>Owen</hi> whether they can approve of your doings, or whether they did intend by any thing they ever writ, to ſet up the Common Prayer in private Meetings. And methinks, ſince you would ſo fain make them favour your deſign, it had been but honeſty in you to have known their minds, and modeſty in you to have waited till they led the way, before you had expos'd your Caſe to Publick View. As for thoſe that are gone, and cannot ſpeak for themſelves, I will in ſhort anſwer for them, That they lived and dyed in the Faith of the Re<g ref="char:EOLhyphen"/>formed Cauſe, bearing a worthy teſtimony againſt all impoſed Forms, judging it far beneath thoſe that live under a Goſpel Diſpenſation in the lively exerciſe of Faith, having the pour<g ref="char:EOLhyphen"/>ings forth of the Anointing, to be ſtreightned in their Ad<g ref="char:EOLhyphen"/>dreſſes to God, either publickly or privately by any preſcrib<g ref="char:EOLhyphen"/>ed Form of Mans Invention; and I am morally certain, were they now alive they would abhor in the leaſt to countenance your Proceedings: and do you not think it a ſin againſt God thus to abuſe the Memory of thoſe Worthies <hi>of whom the World was not worthy?</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:51090:9"/>
+               <hi>Sixthly,</hi> You lie under the guilt of being offenſive to the Godly. You have given occaſion to the enemies of the Goſ<g ref="char:EOLhyphen"/>pel to open their mouths, and have ſadned the hearts of Gods People by what you have done. Suppoſe the reading of the Common Prayer were in it ſelf <hi>hadiaphorous</hi> (which is more than <hi>Diſſenters</hi> will by any means grant) and ſo but an accident (though it is a Solaeſim to ſuppoſe it) in the Worſhip of God that may be, and may not be, without im<g ref="char:EOLhyphen"/>pairing the purity or eſſentials of it. It had been your duty as a Profeſſor, but more as a Preacher, to have imitated the bleſſed Apoſtle <hi>Paul,</hi> who declared he would never eat meat rather than make his Brother to offend. You could not but know how generally offenſive this ſtrange act of yours would be to <hi>Diſſenters,</hi> eſpecially in this day. Oh then, why would you dare ſo inconſiderately (contrary to the bonds of Charity, of Chriſtianity, of Community that lay upon you) to become a juſt ſtumbling block to the Children of the living God?</p>
+            <p>Laſtly, I have this Sin to charge upon you (and a home charge it is) that you have ſhamefully given up the <hi>Noncon<g ref="char:EOLhyphen"/>formiſts</hi> Cauſe to the hands of its Enemies; a Cauſe that God has been pleading, and his poor People owning in theſe Nations. You would repreſent to the World the <hi>Nonconformiſts</hi> owning the Liturgy of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> even whilſt they are ſuffering Perſecution for op<g ref="char:EOLhyphen"/>ſing it. You would make the World believe the Private Meetings are not ſet up in oppoſition to the Publick</p>
+            <p>You would fain make a difference between Reading the Common Prayer, and giving the unfeigned conſent and aſſent of the mind to it. What purer <hi>Jeſuitiſm</hi> can there be? In a word, your whole deſign (as far as I can fathom) is to render <hi>Nonconformiſts</hi> as People of no Principles; are
+<pb n="17" facs="tcp:51090:9"/>
+you not aſhamed, and will you not repent of theſe things? I will ſay no more, but what was ſaid to that evil Spirit by which you have acted, <hi>The Lord rebuke thee, even thou Lord, that haſt choſen</hi> Jeruſalem <hi>rebuke thee.</hi>
+            </p>
+            <p>I am really weary of tracing you any further, and ſhall therefore break off from tireſome Proſe, into the fancy of Verſes, and beſtow theſe following Lines as a fit Inſcripti<g ref="char:EOLhyphen"/>on to be written upon your Door, and ſo take my leave of you.</p>
+            <q>
+               <l>Here lives the <hi>Con-non-forming</hi> Mungril, that</l>
+               <l>Would fain be ſomething, but he knows not what;</l>
+               <l>Who has been ſtudying how to act the part</l>
+               <l>Of <hi>Jack of both ſides</hi> with a wheedling Art;</l>
+               <l>One Leg long dis'plin'd in <hi>Phanatick</hi> Schools,</l>
+               <l>The other cringing unto <hi>Tory</hi> Fools;</l>
+               <l>Whoſe craving Stomach makes him longer loth</l>
+               <l>To ſup the ſtarvling <hi>Nonconformiſts</hi> Broth;</l>
+               <l>But long to be refreſhed with a Bit</l>
+               <l>Of Roaſt Meat from the Reverend Biſhops-Spit;</l>
+               <l>Who can diſpence with th' tail of Antichriſt,</l>
+               <l>Whoſe Conſcience's <hi>Victim</hi> when preferment's preſt,</l>
+               <l>
+                  <pb n="18" facs="tcp:51090:10"/>More skill'd in runing than his ground to ſtand,</l>
+               <l>Prepar'd to do or be what times command;</l>
+               <l>Who gnaws his fingers to the very ſtump,</l>
+               <l>Being mad he knows not what will turn up Trump.</l>
+            </q>
+            <closer>
+               <dateline>From my Study in <hi>Plain-dealing-Ally,</hi> oppoſite to the great Study in <hi>Bloomsbury.</hi> 
+                  <date>March 14. 1682.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, and are to be ſold by <hi>R. Janeway.</hi>
+            </p>
+            <pb facs="tcp:51090:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
